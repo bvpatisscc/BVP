@@ -1,0 +1,33 @@
+name: FDDB
+training:
+  epochs: 150
+  batch_size: 128
+  learning_rate: 0.05
+  momentum: 0.9
+  weight_decay: 0.01
+  scheduler: cosine
+  seed: 42
+  batch_norm: true
+  augmentation:
+    horizontal_flip: true
+    channels: 3
+  bbox_loss_weight: 5.0
+data:
+  root: ${oc.env:DATA_ROOT,./data}
+model:
+  input_shape: [4,64,64]
+  init_channels: [16,24,24,32,48,32]
+  channels: [8,8,8,16,24,32]
+  strides: [1,1,1,1,1,1]
+  pool_after: [2,3,4,5,6]
+  global_pool: max
+  classes: 2
+  outputs: 8
+pruning:
+  recovery:
+    epochs: 20
+cssd:
+  weight_scale_semantic_head: true
+  calibration_batches: 32
+  qat_epochs: 5
+  table: ../shared/symmetric_2nzd.json

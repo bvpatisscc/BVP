@@ -1,0 +1,41 @@
+name: VWW
+training:
+  epochs: 150
+  batch_size: 128
+  learning_rate: 0.05
+  momentum: 0.9
+  weight_decay: 0.0005
+  scheduler: cosine
+  seed: 42
+  batch_norm: true
+  augmentation:
+    shift: 2
+    brightness: 0.25
+data:
+  root: ${oc.env:DATA_ROOT,./data}
+model:
+  input_shape: [4,64,64]
+  init_channels: [24,48,80,40,48,40]
+  channels: [16,24,48,24,20,22]
+  strides: [1,1,1,1,1,1]
+  pool_after: [1,2,3,4,5]
+  global_pool: max
+  classes: 2
+  outputs: 8
+pruning:
+  recovery:
+    epochs: 200
+    learning_rate: 0.05
+    weight_decay: 0.0005
+    scheduler: cosine
+    ema_decay: 0.999
+    augmentation:
+      shift: 2
+      brightness: 0.25
+      horizontal_flip: true
+cssd:
+  equalization_rounds: 6
+  qat_learning_rate: 0.0001
+  calibration_batches: 32
+  qat_epochs: 5
+  table: ../shared/symmetric_2nzd.json

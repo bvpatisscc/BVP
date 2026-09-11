@@ -1,0 +1,32 @@
+name: N-MNIST
+training:
+  epochs: 150
+  batch_size: 128
+  learning_rate: 0.05
+  momentum: 0.9
+  weight_decay: 0.0005
+  scheduler: cosine
+  seed: 42
+  batch_norm: false
+data:
+  root: ${oc.env:DATA_ROOT,./data}
+model:
+  input_shape: [2,34,34]
+  init_channels: [16,24,32,40,56]
+  channels: [8,8,16,8,32]
+  strides: [2,1,1,1,1]
+  pool_after: [2,3,4,5]
+  global_pool: avg
+  classes: 10
+  outputs: 10
+  crop: 1
+  temporal: sum
+pruning:
+  recovery:
+    epochs: 100
+    augmentation:
+      shift: 2
+cssd:
+  calibration_batches: 32
+  qat_epochs: 5
+  table: ../shared/symmetric_2nzd.json

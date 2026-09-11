@@ -1,0 +1,28 @@
+name: DroneVehicle
+training:
+  epochs: 150
+  batch_size: 128
+  learning_rate: 0.05
+  momentum: 0.9
+  weight_decay: 0.0005
+  scheduler: cosine
+  seed: 42
+  batch_norm: true
+data:
+  root: ${oc.env:DATA_ROOT,./data}
+model:
+  input_shape: [4,64,64]
+  init_channels: [16,32,64,32,48,32]
+  channels: [8,8,8,8,8,8]
+  strides: [1,1,1,1,1,1]
+  pool_after: [2,3,4,5,6]
+  global_pool: max
+  classes: 2
+  outputs: 8
+pruning:
+  recovery:
+    epochs: 100
+cssd:
+  calibration_batches: 32
+  qat_epochs: 5
+  table: ../shared/symmetric_2nzd.json

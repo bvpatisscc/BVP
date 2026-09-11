@@ -1,0 +1,28 @@
+name: SVHN
+training:
+  epochs: 150
+  batch_size: 128
+  learning_rate: 0.05
+  momentum: 0.9
+  weight_decay: 0.0005
+  scheduler: cosine
+  seed: 42
+  batch_norm: false
+data:
+  root: ${oc.env:DATA_ROOT,./data}
+model:
+  input_shape: [4,32,32]
+  init_channels: [16,64,96,48]
+  channels: [8,32,48,24]
+  strides: [1,1,1,2]
+  pool_after: [2,3,4]
+  global_pool: max
+  classes: 10
+  outputs: 16
+pruning:
+  recovery:
+    epochs: 20
+cssd:
+  calibration_batches: 32
+  qat_epochs: 5
+  table: ../shared/symmetric_2nzd.json

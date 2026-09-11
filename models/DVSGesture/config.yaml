@@ -1,0 +1,33 @@
+name: DVSGesture
+training:
+  epochs: 150
+  batch_size: 8
+  learning_rate: 0.001
+  momentum: 0.9
+  weight_decay: 0.0005
+  scheduler: cosine
+  seed: 42
+  batch_norm: true
+data:
+  root: ${oc.env:DATA_ROOT,./data}
+model:
+  input_shape: [2,128,128]
+  init_channels: [16,24,40,56,56]
+  channels: [8,8,8,8,32]
+  strides: [2,1,1,1,1]
+  pool_after: [1,2,3,4,5]
+  global_pool: avg
+  classes: 11
+  outputs: 11
+  temporal: mean_logits
+pruning:
+  recovery:
+    epochs: 100
+    bn_recalibration: true
+    ema_decay: 0.999
+cssd:
+  activation_calibration: mse
+  qat_learning_rate: 0.00001
+  calibration_batches: 32
+  qat_epochs: 5
+  table: ../shared/symmetric_2nzd.json

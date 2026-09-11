@@ -1,0 +1,2306 @@
+{
+  "-128": {
+    "bc_decimal": -129,
+    "bc_ternary": "1'0000001'",
+    "bc_pow2sum": "-2^7 + -2^0",
+    "powers": [
+      "-7",
+      "-0"
+    ]
+  },
+  "-127": {
+    "bc_decimal": -127,
+    "bc_ternary": "1'0000001",
+    "bc_pow2sum": "-2^7 + 2^0",
+    "powers": [
+      "-7",
+      "0"
+    ]
+  },
+  "-126": {
+    "bc_decimal": -126,
+    "bc_ternary": "1'0000010",
+    "bc_pow2sum": "-2^7 + 2^1",
+    "powers": [
+      "-7",
+      "1"
+    ]
+  },
+  "-125": {
+    "bc_decimal": -124,
+    "bc_ternary": "1'0000010",
+    "bc_pow2sum": "-2^7 + 2^1",
+    "powers": [
+      "-7",
+      "1"
+    ]
+  },
+  "-124": {
+    "bc_decimal": -124,
+    "bc_ternary": "1'0000100",
+    "bc_pow2sum": "-2^7 + 2^2",
+    "powers": [
+      "-7",
+      "2"
+    ]
+  },
+  "-123": {
+    "bc_decimal": -124,
+    "bc_ternary": "1'0000100",
+    "bc_pow2sum": "-2^7 + 2^2",
+    "powers": [
+      "-7",
+      "2"
+    ]
+  },
+  "-122": {
+    "bc_decimal": -120,
+    "bc_ternary": "1'0000100",
+    "bc_pow2sum": "-2^7 + 2^2",
+    "powers": [
+      "-7",
+      "2"
+    ]
+  },
+  "-121": {
+    "bc_decimal": -120,
+    "bc_ternary": "1'0001000",
+    "bc_pow2sum": "-2^7 + 2^3",
+    "powers": [
+      "-7",
+      "3"
+    ]
+  },
+  "-120": {
+    "bc_decimal": -120,
+    "bc_ternary": "1'0001000",
+    "bc_pow2sum": "-2^7 + 2^3",
+    "powers": [
+      "-7",
+      "3"
+    ]
+  },
+  "-119": {
+    "bc_decimal": -120,
+    "bc_ternary": "1'0001000",
+    "bc_pow2sum": "-2^7 + 2^3",
+    "powers": [
+      "-7",
+      "3"
+    ]
+  },
+  "-118": {
+    "bc_decimal": -120,
+    "bc_ternary": "1'0001000",
+    "bc_pow2sum": "-2^7 + 2^3",
+    "powers": [
+      "-7",
+      "3"
+    ]
+  },
+  "-117": {
+    "bc_decimal": -120,
+    "bc_ternary": "1'0001000",
+    "bc_pow2sum": "-2^7 + 2^3",
+    "powers": [
+      "-7",
+      "3"
+    ]
+  },
+  "-116": {
+    "bc_decimal": -112,
+    "bc_ternary": "1'0001000",
+    "bc_pow2sum": "-2^7 + 2^3",
+    "powers": [
+      "-7",
+      "3"
+    ]
+  },
+  "-115": {
+    "bc_decimal": -112,
+    "bc_ternary": "1'0010000",
+    "bc_pow2sum": "-2^7 + 2^4",
+    "powers": [
+      "-7",
+      "4"
+    ]
+  },
+  "-114": {
+    "bc_decimal": -112,
+    "bc_ternary": "1'0010000",
+    "bc_pow2sum": "-2^7 + 2^4",
+    "powers": [
+      "-7",
+      "4"
+    ]
+  },
+  "-113": {
+    "bc_decimal": -112,
+    "bc_ternary": "1'0010000",
+    "bc_pow2sum": "-2^7 + 2^4",
+    "powers": [
+      "-7",
+      "4"
+    ]
+  },
+  "-112": {
+    "bc_decimal": -112,
+    "bc_ternary": "1'0010000",
+    "bc_pow2sum": "-2^7 + 2^4",
+    "powers": [
+      "-7",
+      "4"
+    ]
+  },
+  "-111": {
+    "bc_decimal": -112,
+    "bc_ternary": "1'0010000",
+    "bc_pow2sum": "-2^7 + 2^4",
+    "powers": [
+      "-7",
+      "4"
+    ]
+  },
+  "-110": {
+    "bc_decimal": -112,
+    "bc_ternary": "1'0010000",
+    "bc_pow2sum": "-2^7 + 2^4",
+    "powers": [
+      "-7",
+      "4"
+    ]
+  },
+  "-109": {
+    "bc_decimal": -112,
+    "bc_ternary": "1'0010000",
+    "bc_pow2sum": "-2^7 + 2^4",
+    "powers": [
+      "-7",
+      "4"
+    ]
+  },
+  "-108": {
+    "bc_decimal": -112,
+    "bc_ternary": "1'0010000",
+    "bc_pow2sum": "-2^7 + 2^4",
+    "powers": [
+      "-7",
+      "4"
+    ]
+  },
+  "-107": {
+    "bc_decimal": -112,
+    "bc_ternary": "1'0010000",
+    "bc_pow2sum": "-2^7 + 2^4",
+    "powers": [
+      "-7",
+      "4"
+    ]
+  },
+  "-106": {
+    "bc_decimal": -112,
+    "bc_ternary": "1'0010000",
+    "bc_pow2sum": "-2^7 + 2^4",
+    "powers": [
+      "-7",
+      "4"
+    ]
+  },
+  "-105": {
+    "bc_decimal": -112,
+    "bc_ternary": "1'0010000",
+    "bc_pow2sum": "-2^7 + 2^4",
+    "powers": [
+      "-7",
+      "4"
+    ]
+  },
+  "-104": {
+    "bc_decimal": -96,
+    "bc_ternary": "1'0010000",
+    "bc_pow2sum": "-2^7 + 2^4",
+    "powers": [
+      "-7",
+      "4"
+    ]
+  },
+  "-103": {
+    "bc_decimal": -96,
+    "bc_ternary": "01'1'00000",
+    "bc_pow2sum": "-2^6 + -2^5",
+    "powers": [
+      "-6",
+      "-5"
+    ]
+  },
+  "-102": {
+    "bc_decimal": -96,
+    "bc_ternary": "01'1'00000",
+    "bc_pow2sum": "-2^6 + -2^5",
+    "powers": [
+      "-6",
+      "-5"
+    ]
+  },
+  "-101": {
+    "bc_decimal": -96,
+    "bc_ternary": "01'1'00000",
+    "bc_pow2sum": "-2^6 + -2^5",
+    "powers": [
+      "-6",
+      "-5"
+    ]
+  },
+  "-100": {
+    "bc_decimal": -96,
+    "bc_ternary": "01'1'00000",
+    "bc_pow2sum": "-2^6 + -2^5",
+    "powers": [
+      "-6",
+      "-5"
+    ]
+  },
+  "-99": {
+    "bc_decimal": -96,
+    "bc_ternary": "01'1'00000",
+    "bc_pow2sum": "-2^6 + -2^5",
+    "powers": [
+      "-6",
+      "-5"
+    ]
+  },
+  "-98": {
+    "bc_decimal": -96,
+    "bc_ternary": "01'1'00000",
+    "bc_pow2sum": "-2^6 + -2^5",
+    "powers": [
+      "-6",
+      "-5"
+    ]
+  },
+  "-97": {
+    "bc_decimal": -96,
+    "bc_ternary": "01'1'00000",
+    "bc_pow2sum": "-2^6 + -2^5",
+    "powers": [
+      "-6",
+      "-5"
+    ]
+  },
+  "-96": {
+    "bc_decimal": -96,
+    "bc_ternary": "01'1'00000",
+    "bc_pow2sum": "-2^6 + -2^5",
+    "powers": [
+      "-6",
+      "-5"
+    ]
+  },
+  "-95": {
+    "bc_decimal": -96,
+    "bc_ternary": "01'1'00000",
+    "bc_pow2sum": "-2^6 + -2^5",
+    "powers": [
+      "-6",
+      "-5"
+    ]
+  },
+  "-94": {
+    "bc_decimal": -96,
+    "bc_ternary": "01'1'00000",
+    "bc_pow2sum": "-2^6 + -2^5",
+    "powers": [
+      "-6",
+      "-5"
+    ]
+  },
+  "-93": {
+    "bc_decimal": -96,
+    "bc_ternary": "01'1'00000",
+    "bc_pow2sum": "-2^6 + -2^5",
+    "powers": [
+      "-6",
+      "-5"
+    ]
+  },
+  "-92": {
+    "bc_decimal": -96,
+    "bc_ternary": "01'1'00000",
+    "bc_pow2sum": "-2^6 + -2^5",
+    "powers": [
+      "-6",
+      "-5"
+    ]
+  },
+  "-91": {
+    "bc_decimal": -96,
+    "bc_ternary": "01'1'00000",
+    "bc_pow2sum": "-2^6 + -2^5",
+    "powers": [
+      "-6",
+      "-5"
+    ]
+  },
+  "-90": {
+    "bc_decimal": -96,
+    "bc_ternary": "01'1'00000",
+    "bc_pow2sum": "-2^6 + -2^5",
+    "powers": [
+      "-6",
+      "-5"
+    ]
+  },
+  "-89": {
+    "bc_decimal": -96,
+    "bc_ternary": "01'1'00000",
+    "bc_pow2sum": "-2^6 + -2^5",
+    "powers": [
+      "-6",
+      "-5"
+    ]
+  },
+  "-88": {
+    "bc_decimal": -80,
+    "bc_ternary": "01'1'00000",
+    "bc_pow2sum": "-2^6 + -2^5",
+    "powers": [
+      "-6",
+      "-5"
+    ]
+  },
+  "-87": {
+    "bc_decimal": -80,
+    "bc_ternary": "01'01'0000",
+    "bc_pow2sum": "-2^6 + -2^4",
+    "powers": [
+      "-6",
+      "-4"
+    ]
+  },
+  "-86": {
+    "bc_decimal": -80,
+    "bc_ternary": "01'01'0000",
+    "bc_pow2sum": "-2^6 + -2^4",
+    "powers": [
+      "-6",
+      "-4"
+    ]
+  },
+  "-85": {
+    "bc_decimal": -80,
+    "bc_ternary": "01'01'0000",
+    "bc_pow2sum": "-2^6 + -2^4",
+    "powers": [
+      "-6",
+      "-4"
+    ]
+  },
+  "-84": {
+    "bc_decimal": -80,
+    "bc_ternary": "01'01'0000",
+    "bc_pow2sum": "-2^6 + -2^4",
+    "powers": [
+      "-6",
+      "-4"
+    ]
+  },
+  "-83": {
+    "bc_decimal": -80,
+    "bc_ternary": "01'01'0000",
+    "bc_pow2sum": "-2^6 + -2^4",
+    "powers": [
+      "-6",
+      "-4"
+    ]
+  },
+  "-82": {
+    "bc_decimal": -80,
+    "bc_ternary": "01'01'0000",
+    "bc_pow2sum": "-2^6 + -2^4",
+    "powers": [
+      "-6",
+      "-4"
+    ]
+  },
+  "-81": {
+    "bc_decimal": -80,
+    "bc_ternary": "01'01'0000",
+    "bc_pow2sum": "-2^6 + -2^4",
+    "powers": [
+      "-6",
+      "-4"
+    ]
+  },
+  "-80": {
+    "bc_decimal": -80,
+    "bc_ternary": "01'01'0000",
+    "bc_pow2sum": "-2^6 + -2^4",
+    "powers": [
+      "-6",
+      "-4"
+    ]
+  },
+  "-79": {
+    "bc_decimal": -80,
+    "bc_ternary": "01'01'0000",
+    "bc_pow2sum": "-2^6 + -2^4",
+    "powers": [
+      "-6",
+      "-4"
+    ]
+  },
+  "-78": {
+    "bc_decimal": -80,
+    "bc_ternary": "01'01'0000",
+    "bc_pow2sum": "-2^6 + -2^4",
+    "powers": [
+      "-6",
+      "-4"
+    ]
+  },
+  "-77": {
+    "bc_decimal": -80,
+    "bc_ternary": "01'01'0000",
+    "bc_pow2sum": "-2^6 + -2^4",
+    "powers": [
+      "-6",
+      "-4"
+    ]
+  },
+  "-76": {
+    "bc_decimal": -72,
+    "bc_ternary": "01'01'0000",
+    "bc_pow2sum": "-2^6 + -2^4",
+    "powers": [
+      "-6",
+      "-4"
+    ]
+  },
+  "-75": {
+    "bc_decimal": -72,
+    "bc_ternary": "01'001'000",
+    "bc_pow2sum": "-2^6 + -2^3",
+    "powers": [
+      "-6",
+      "-3"
+    ]
+  },
+  "-74": {
+    "bc_decimal": -72,
+    "bc_ternary": "01'001'000",
+    "bc_pow2sum": "-2^6 + -2^3",
+    "powers": [
+      "-6",
+      "-3"
+    ]
+  },
+  "-73": {
+    "bc_decimal": -72,
+    "bc_ternary": "01'001'000",
+    "bc_pow2sum": "-2^6 + -2^3",
+    "powers": [
+      "-6",
+      "-3"
+    ]
+  },
+  "-72": {
+    "bc_decimal": -72,
+    "bc_ternary": "01'001'000",
+    "bc_pow2sum": "-2^6 + -2^3",
+    "powers": [
+      "-6",
+      "-3"
+    ]
+  },
+  "-71": {
+    "bc_decimal": -72,
+    "bc_ternary": "01'001'000",
+    "bc_pow2sum": "-2^6 + -2^3",
+    "powers": [
+      "-6",
+      "-3"
+    ]
+  },
+  "-70": {
+    "bc_decimal": -68,
+    "bc_ternary": "01'001'000",
+    "bc_pow2sum": "-2^6 + -2^3",
+    "powers": [
+      "-6",
+      "-3"
+    ]
+  },
+  "-69": {
+    "bc_decimal": -68,
+    "bc_ternary": "01'0001'00",
+    "bc_pow2sum": "-2^6 + -2^2",
+    "powers": [
+      "-6",
+      "-2"
+    ]
+  },
+  "-68": {
+    "bc_decimal": -68,
+    "bc_ternary": "01'0001'00",
+    "bc_pow2sum": "-2^6 + -2^2",
+    "powers": [
+      "-6",
+      "-2"
+    ]
+  },
+  "-67": {
+    "bc_decimal": -66,
+    "bc_ternary": "01'0001'00",
+    "bc_pow2sum": "-2^6 + -2^2",
+    "powers": [
+      "-6",
+      "-2"
+    ]
+  },
+  "-66": {
+    "bc_decimal": -66,
+    "bc_ternary": "01'00001'0",
+    "bc_pow2sum": "-2^6 + -2^1",
+    "powers": [
+      "-6",
+      "-1"
+    ]
+  },
+  "-65": {
+    "bc_decimal": -65,
+    "bc_ternary": "01'000001'",
+    "bc_pow2sum": "-2^6 + -2^0",
+    "powers": [
+      "-6",
+      "-0"
+    ]
+  },
+  "-64": {
+    "bc_decimal": -64,
+    "bc_ternary": "1'1000000",
+    "bc_pow2sum": "-2^7 + 2^6",
+    "powers": [
+      "-7",
+      "6"
+    ]
+  },
+  "-63": {
+    "bc_decimal": -63,
+    "bc_ternary": "01'000001",
+    "bc_pow2sum": "-2^6 + 2^0",
+    "powers": [
+      "-6",
+      "0"
+    ]
+  },
+  "-62": {
+    "bc_decimal": -62,
+    "bc_ternary": "01'000010",
+    "bc_pow2sum": "-2^6 + 2^1",
+    "powers": [
+      "-6",
+      "1"
+    ]
+  },
+  "-61": {
+    "bc_decimal": -60,
+    "bc_ternary": "01'000010",
+    "bc_pow2sum": "-2^6 + 2^1",
+    "powers": [
+      "-6",
+      "1"
+    ]
+  },
+  "-60": {
+    "bc_decimal": -60,
+    "bc_ternary": "01'000100",
+    "bc_pow2sum": "-2^6 + 2^2",
+    "powers": [
+      "-6",
+      "2"
+    ]
+  },
+  "-59": {
+    "bc_decimal": -60,
+    "bc_ternary": "01'000100",
+    "bc_pow2sum": "-2^6 + 2^2",
+    "powers": [
+      "-6",
+      "2"
+    ]
+  },
+  "-58": {
+    "bc_decimal": -56,
+    "bc_ternary": "01'000100",
+    "bc_pow2sum": "-2^6 + 2^2",
+    "powers": [
+      "-6",
+      "2"
+    ]
+  },
+  "-57": {
+    "bc_decimal": -56,
+    "bc_ternary": "01'001000",
+    "bc_pow2sum": "-2^6 + 2^3",
+    "powers": [
+      "-6",
+      "3"
+    ]
+  },
+  "-56": {
+    "bc_decimal": -56,
+    "bc_ternary": "01'001000",
+    "bc_pow2sum": "-2^6 + 2^3",
+    "powers": [
+      "-6",
+      "3"
+    ]
+  },
+  "-55": {
+    "bc_decimal": -56,
+    "bc_ternary": "01'001000",
+    "bc_pow2sum": "-2^6 + 2^3",
+    "powers": [
+      "-6",
+      "3"
+    ]
+  },
+  "-54": {
+    "bc_decimal": -56,
+    "bc_ternary": "01'001000",
+    "bc_pow2sum": "-2^6 + 2^3",
+    "powers": [
+      "-6",
+      "3"
+    ]
+  },
+  "-53": {
+    "bc_decimal": -56,
+    "bc_ternary": "01'001000",
+    "bc_pow2sum": "-2^6 + 2^3",
+    "powers": [
+      "-6",
+      "3"
+    ]
+  },
+  "-52": {
+    "bc_decimal": -48,
+    "bc_ternary": "01'001000",
+    "bc_pow2sum": "-2^6 + 2^3",
+    "powers": [
+      "-6",
+      "3"
+    ]
+  },
+  "-51": {
+    "bc_decimal": -48,
+    "bc_ternary": "001'1'0000",
+    "bc_pow2sum": "-2^5 + -2^4",
+    "powers": [
+      "-5",
+      "-4"
+    ]
+  },
+  "-50": {
+    "bc_decimal": -48,
+    "bc_ternary": "001'1'0000",
+    "bc_pow2sum": "-2^5 + -2^4",
+    "powers": [
+      "-5",
+      "-4"
+    ]
+  },
+  "-49": {
+    "bc_decimal": -48,
+    "bc_ternary": "001'1'0000",
+    "bc_pow2sum": "-2^5 + -2^4",
+    "powers": [
+      "-5",
+      "-4"
+    ]
+  },
+  "-48": {
+    "bc_decimal": -48,
+    "bc_ternary": "001'1'0000",
+    "bc_pow2sum": "-2^5 + -2^4",
+    "powers": [
+      "-5",
+      "-4"
+    ]
+  },
+  "-47": {
+    "bc_decimal": -48,
+    "bc_ternary": "001'1'0000",
+    "bc_pow2sum": "-2^5 + -2^4",
+    "powers": [
+      "-5",
+      "-4"
+    ]
+  },
+  "-46": {
+    "bc_decimal": -48,
+    "bc_ternary": "001'1'0000",
+    "bc_pow2sum": "-2^5 + -2^4",
+    "powers": [
+      "-5",
+      "-4"
+    ]
+  },
+  "-45": {
+    "bc_decimal": -48,
+    "bc_ternary": "001'1'0000",
+    "bc_pow2sum": "-2^5 + -2^4",
+    "powers": [
+      "-5",
+      "-4"
+    ]
+  },
+  "-44": {
+    "bc_decimal": -40,
+    "bc_ternary": "001'1'0000",
+    "bc_pow2sum": "-2^5 + -2^4",
+    "powers": [
+      "-5",
+      "-4"
+    ]
+  },
+  "-43": {
+    "bc_decimal": -40,
+    "bc_ternary": "001'01'000",
+    "bc_pow2sum": "-2^5 + -2^3",
+    "powers": [
+      "-5",
+      "-3"
+    ]
+  },
+  "-42": {
+    "bc_decimal": -40,
+    "bc_ternary": "001'01'000",
+    "bc_pow2sum": "-2^5 + -2^3",
+    "powers": [
+      "-5",
+      "-3"
+    ]
+  },
+  "-41": {
+    "bc_decimal": -40,
+    "bc_ternary": "001'01'000",
+    "bc_pow2sum": "-2^5 + -2^3",
+    "powers": [
+      "-5",
+      "-3"
+    ]
+  },
+  "-40": {
+    "bc_decimal": -40,
+    "bc_ternary": "001'01'000",
+    "bc_pow2sum": "-2^5 + -2^3",
+    "powers": [
+      "-5",
+      "-3"
+    ]
+  },
+  "-39": {
+    "bc_decimal": -40,
+    "bc_ternary": "001'01'000",
+    "bc_pow2sum": "-2^5 + -2^3",
+    "powers": [
+      "-5",
+      "-3"
+    ]
+  },
+  "-38": {
+    "bc_decimal": -36,
+    "bc_ternary": "001'01'000",
+    "bc_pow2sum": "-2^5 + -2^3",
+    "powers": [
+      "-5",
+      "-3"
+    ]
+  },
+  "-37": {
+    "bc_decimal": -36,
+    "bc_ternary": "001'001'00",
+    "bc_pow2sum": "-2^5 + -2^2",
+    "powers": [
+      "-5",
+      "-2"
+    ]
+  },
+  "-36": {
+    "bc_decimal": -36,
+    "bc_ternary": "001'001'00",
+    "bc_pow2sum": "-2^5 + -2^2",
+    "powers": [
+      "-5",
+      "-2"
+    ]
+  },
+  "-35": {
+    "bc_decimal": -34,
+    "bc_ternary": "001'001'00",
+    "bc_pow2sum": "-2^5 + -2^2",
+    "powers": [
+      "-5",
+      "-2"
+    ]
+  },
+  "-34": {
+    "bc_decimal": -34,
+    "bc_ternary": "001'0001'0",
+    "bc_pow2sum": "-2^5 + -2^1",
+    "powers": [
+      "-5",
+      "-1"
+    ]
+  },
+  "-33": {
+    "bc_decimal": -33,
+    "bc_ternary": "001'00001'",
+    "bc_pow2sum": "-2^5 + -2^0",
+    "powers": [
+      "-5",
+      "-0"
+    ]
+  },
+  "-32": {
+    "bc_decimal": -32,
+    "bc_ternary": "01'100000",
+    "bc_pow2sum": "-2^6 + 2^5",
+    "powers": [
+      "-6",
+      "5"
+    ]
+  },
+  "-31": {
+    "bc_decimal": -31,
+    "bc_ternary": "001'00001",
+    "bc_pow2sum": "-2^5 + 2^0",
+    "powers": [
+      "-5",
+      "0"
+    ]
+  },
+  "-30": {
+    "bc_decimal": -30,
+    "bc_ternary": "001'00010",
+    "bc_pow2sum": "-2^5 + 2^1",
+    "powers": [
+      "-5",
+      "1"
+    ]
+  },
+  "-29": {
+    "bc_decimal": -28,
+    "bc_ternary": "001'00010",
+    "bc_pow2sum": "-2^5 + 2^1",
+    "powers": [
+      "-5",
+      "1"
+    ]
+  },
+  "-28": {
+    "bc_decimal": -28,
+    "bc_ternary": "001'00100",
+    "bc_pow2sum": "-2^5 + 2^2",
+    "powers": [
+      "-5",
+      "2"
+    ]
+  },
+  "-27": {
+    "bc_decimal": -28,
+    "bc_ternary": "001'00100",
+    "bc_pow2sum": "-2^5 + 2^2",
+    "powers": [
+      "-5",
+      "2"
+    ]
+  },
+  "-26": {
+    "bc_decimal": -24,
+    "bc_ternary": "001'00100",
+    "bc_pow2sum": "-2^5 + 2^2",
+    "powers": [
+      "-5",
+      "2"
+    ]
+  },
+  "-25": {
+    "bc_decimal": -24,
+    "bc_ternary": "0001'1'000",
+    "bc_pow2sum": "-2^4 + -2^3",
+    "powers": [
+      "-4",
+      "-3"
+    ]
+  },
+  "-24": {
+    "bc_decimal": -24,
+    "bc_ternary": "0001'1'000",
+    "bc_pow2sum": "-2^4 + -2^3",
+    "powers": [
+      "-4",
+      "-3"
+    ]
+  },
+  "-23": {
+    "bc_decimal": -24,
+    "bc_ternary": "0001'1'000",
+    "bc_pow2sum": "-2^4 + -2^3",
+    "powers": [
+      "-4",
+      "-3"
+    ]
+  },
+  "-22": {
+    "bc_decimal": -20,
+    "bc_ternary": "0001'1'000",
+    "bc_pow2sum": "-2^4 + -2^3",
+    "powers": [
+      "-4",
+      "-3"
+    ]
+  },
+  "-21": {
+    "bc_decimal": -20,
+    "bc_ternary": "0001'01'00",
+    "bc_pow2sum": "-2^4 + -2^2",
+    "powers": [
+      "-4",
+      "-2"
+    ]
+  },
+  "-20": {
+    "bc_decimal": -20,
+    "bc_ternary": "0001'01'00",
+    "bc_pow2sum": "-2^4 + -2^2",
+    "powers": [
+      "-4",
+      "-2"
+    ]
+  },
+  "-19": {
+    "bc_decimal": -18,
+    "bc_ternary": "0001'01'00",
+    "bc_pow2sum": "-2^4 + -2^2",
+    "powers": [
+      "-4",
+      "-2"
+    ]
+  },
+  "-18": {
+    "bc_decimal": -18,
+    "bc_ternary": "0001'001'0",
+    "bc_pow2sum": "-2^4 + -2^1",
+    "powers": [
+      "-4",
+      "-1"
+    ]
+  },
+  "-17": {
+    "bc_decimal": -17,
+    "bc_ternary": "0001'0001'",
+    "bc_pow2sum": "-2^4 + -2^0",
+    "powers": [
+      "-4",
+      "-0"
+    ]
+  },
+  "-16": {
+    "bc_decimal": -16,
+    "bc_ternary": "001'10000",
+    "bc_pow2sum": "-2^5 + 2^4",
+    "powers": [
+      "-5",
+      "4"
+    ]
+  },
+  "-15": {
+    "bc_decimal": -15,
+    "bc_ternary": "0001'0001",
+    "bc_pow2sum": "-2^4 + 2^0",
+    "powers": [
+      "-4",
+      "0"
+    ]
+  },
+  "-14": {
+    "bc_decimal": -14,
+    "bc_ternary": "0001'0010",
+    "bc_pow2sum": "-2^4 + 2^1",
+    "powers": [
+      "-4",
+      "1"
+    ]
+  },
+  "-13": {
+    "bc_decimal": -12,
+    "bc_ternary": "0001'0010",
+    "bc_pow2sum": "-2^4 + 2^1",
+    "powers": [
+      "-4",
+      "1"
+    ]
+  },
+  "-12": {
+    "bc_decimal": -12,
+    "bc_ternary": "00001'1'00",
+    "bc_pow2sum": "-2^3 + -2^2",
+    "powers": [
+      "-3",
+      "-2"
+    ]
+  },
+  "-11": {
+    "bc_decimal": -10,
+    "bc_ternary": "00001'1'00",
+    "bc_pow2sum": "-2^3 + -2^2",
+    "powers": [
+      "-3",
+      "-2"
+    ]
+  },
+  "-10": {
+    "bc_decimal": -10,
+    "bc_ternary": "00001'01'0",
+    "bc_pow2sum": "-2^3 + -2^1",
+    "powers": [
+      "-3",
+      "-1"
+    ]
+  },
+  "-9": {
+    "bc_decimal": -9,
+    "bc_ternary": "00001'001'",
+    "bc_pow2sum": "-2^3 + -2^0",
+    "powers": [
+      "-3",
+      "-0"
+    ]
+  },
+  "-8": {
+    "bc_decimal": -8,
+    "bc_ternary": "0001'1000",
+    "bc_pow2sum": "-2^4 + 2^3",
+    "powers": [
+      "-4",
+      "3"
+    ]
+  },
+  "-7": {
+    "bc_decimal": -7,
+    "bc_ternary": "00001'001",
+    "bc_pow2sum": "-2^3 + 2^0",
+    "powers": [
+      "-3",
+      "0"
+    ]
+  },
+  "-6": {
+    "bc_decimal": -6,
+    "bc_ternary": "000001'1'0",
+    "bc_pow2sum": "-2^2 + -2^1",
+    "powers": [
+      "-2",
+      "-1"
+    ]
+  },
+  "-5": {
+    "bc_decimal": -5,
+    "bc_ternary": "000001'01'",
+    "bc_pow2sum": "-2^2 + -2^0",
+    "powers": [
+      "-2",
+      "-0"
+    ]
+  },
+  "-4": {
+    "bc_decimal": -4,
+    "bc_ternary": "00001'100",
+    "bc_pow2sum": "-2^3 + 2^2",
+    "powers": [
+      "-3",
+      "2"
+    ]
+  },
+  "-3": {
+    "bc_decimal": -3,
+    "bc_ternary": "0000001'1'",
+    "bc_pow2sum": "-2^1 + -2^0",
+    "powers": [
+      "-1",
+      "-0"
+    ]
+  },
+  "-2": {
+    "bc_decimal": -2,
+    "bc_ternary": "000001'10",
+    "bc_pow2sum": "-2^2 + 2^1",
+    "powers": [
+      "-2",
+      "1"
+    ]
+  },
+  "-1": {
+    "bc_decimal": -1,
+    "bc_ternary": "0000001'1",
+    "bc_pow2sum": "-2^1 + 2^0",
+    "powers": [
+      "-1",
+      "0"
+    ]
+  },
+  "0": {
+    "bc_decimal": 0,
+    "bc_ternary": "00000000",
+    "bc_pow2sum": "0",
+    "powers": [
+      "-0",
+      "-0"
+    ]
+  },
+  "1": {
+    "bc_decimal": 1,
+    "bc_ternary": "00000011'",
+    "bc_pow2sum": "2^1 + -2^0",
+    "powers": [
+      "1",
+      "-0"
+    ]
+  },
+  "2": {
+    "bc_decimal": 2,
+    "bc_ternary": "0000011'0",
+    "bc_pow2sum": "2^2 + -2^1",
+    "powers": [
+      "2",
+      "-1"
+    ]
+  },
+  "3": {
+    "bc_decimal": 3,
+    "bc_ternary": "00000011",
+    "bc_pow2sum": "2^1 + 2^0",
+    "powers": [
+      "1",
+      "0"
+    ]
+  },
+  "4": {
+    "bc_decimal": 4,
+    "bc_ternary": "000011'00",
+    "bc_pow2sum": "2^3 + -2^2",
+    "powers": [
+      "3",
+      "-2"
+    ]
+  },
+  "5": {
+    "bc_decimal": 5,
+    "bc_ternary": "00000101",
+    "bc_pow2sum": "2^2 + 2^0",
+    "powers": [
+      "2",
+      "0"
+    ]
+  },
+  "6": {
+    "bc_decimal": 6,
+    "bc_ternary": "00000110",
+    "bc_pow2sum": "2^2 + 2^1",
+    "powers": [
+      "2",
+      "1"
+    ]
+  },
+  "7": {
+    "bc_decimal": 7,
+    "bc_ternary": "00001001'",
+    "bc_pow2sum": "2^3 + -2^0",
+    "powers": [
+      "3",
+      "-0"
+    ]
+  },
+  "8": {
+    "bc_decimal": 8,
+    "bc_ternary": "00011'000",
+    "bc_pow2sum": "2^4 + -2^3",
+    "powers": [
+      "4",
+      "-3"
+    ]
+  },
+  "9": {
+    "bc_decimal": 9,
+    "bc_ternary": "00001001",
+    "bc_pow2sum": "2^3 + 2^0",
+    "powers": [
+      "3",
+      "0"
+    ]
+  },
+  "10": {
+    "bc_decimal": 10,
+    "bc_ternary": "00001010",
+    "bc_pow2sum": "2^3 + 2^1",
+    "powers": [
+      "3",
+      "1"
+    ]
+  },
+  "11": {
+    "bc_decimal": 10,
+    "bc_ternary": "00001010",
+    "bc_pow2sum": "2^3 + 2^1",
+    "powers": [
+      "3",
+      "1"
+    ]
+  },
+  "12": {
+    "bc_decimal": 12,
+    "bc_ternary": "00001100",
+    "bc_pow2sum": "2^3 + 2^2",
+    "powers": [
+      "3",
+      "2"
+    ]
+  },
+  "13": {
+    "bc_decimal": 12,
+    "bc_ternary": "00001100",
+    "bc_pow2sum": "2^3 + 2^2",
+    "powers": [
+      "3",
+      "2"
+    ]
+  },
+  "14": {
+    "bc_decimal": 14,
+    "bc_ternary": "0001001'0",
+    "bc_pow2sum": "2^4 + -2^1",
+    "powers": [
+      "4",
+      "-1"
+    ]
+  },
+  "15": {
+    "bc_decimal": 15,
+    "bc_ternary": "00010001'",
+    "bc_pow2sum": "2^4 + -2^0",
+    "powers": [
+      "4",
+      "-0"
+    ]
+  },
+  "16": {
+    "bc_decimal": 16,
+    "bc_ternary": "0011'0000",
+    "bc_pow2sum": "2^5 + -2^4",
+    "powers": [
+      "5",
+      "-4"
+    ]
+  },
+  "17": {
+    "bc_decimal": 17,
+    "bc_ternary": "00010001",
+    "bc_pow2sum": "2^4 + 2^0",
+    "powers": [
+      "4",
+      "0"
+    ]
+  },
+  "18": {
+    "bc_decimal": 18,
+    "bc_ternary": "00010010",
+    "bc_pow2sum": "2^4 + 2^1",
+    "powers": [
+      "4",
+      "1"
+    ]
+  },
+  "19": {
+    "bc_decimal": 18,
+    "bc_ternary": "00010010",
+    "bc_pow2sum": "2^4 + 2^1",
+    "powers": [
+      "4",
+      "1"
+    ]
+  },
+  "20": {
+    "bc_decimal": 20,
+    "bc_ternary": "00010100",
+    "bc_pow2sum": "2^4 + 2^2",
+    "powers": [
+      "4",
+      "2"
+    ]
+  },
+  "21": {
+    "bc_decimal": 20,
+    "bc_ternary": "00010100",
+    "bc_pow2sum": "2^4 + 2^2",
+    "powers": [
+      "4",
+      "2"
+    ]
+  },
+  "22": {
+    "bc_decimal": 20,
+    "bc_ternary": "00010100",
+    "bc_pow2sum": "2^4 + 2^2",
+    "powers": [
+      "4",
+      "2"
+    ]
+  },
+  "23": {
+    "bc_decimal": 24,
+    "bc_ternary": "00011000",
+    "bc_pow2sum": "2^4 + 2^3",
+    "powers": [
+      "4",
+      "3"
+    ]
+  },
+  "24": {
+    "bc_decimal": 24,
+    "bc_ternary": "00011000",
+    "bc_pow2sum": "2^4 + 2^3",
+    "powers": [
+      "4",
+      "3"
+    ]
+  },
+  "25": {
+    "bc_decimal": 24,
+    "bc_ternary": "00011000",
+    "bc_pow2sum": "2^4 + 2^3",
+    "powers": [
+      "4",
+      "3"
+    ]
+  },
+  "26": {
+    "bc_decimal": 24,
+    "bc_ternary": "00011000",
+    "bc_pow2sum": "2^4 + 2^3",
+    "powers": [
+      "4",
+      "3"
+    ]
+  },
+  "27": {
+    "bc_decimal": 28,
+    "bc_ternary": "001001'00",
+    "bc_pow2sum": "2^5 + -2^2",
+    "powers": [
+      "5",
+      "-2"
+    ]
+  },
+  "28": {
+    "bc_decimal": 28,
+    "bc_ternary": "001001'00",
+    "bc_pow2sum": "2^5 + -2^2",
+    "powers": [
+      "5",
+      "-2"
+    ]
+  },
+  "29": {
+    "bc_decimal": 28,
+    "bc_ternary": "001001'00",
+    "bc_pow2sum": "2^5 + -2^2",
+    "powers": [
+      "5",
+      "-2"
+    ]
+  },
+  "30": {
+    "bc_decimal": 30,
+    "bc_ternary": "0010001'0",
+    "bc_pow2sum": "2^5 + -2^1",
+    "powers": [
+      "5",
+      "-1"
+    ]
+  },
+  "31": {
+    "bc_decimal": 31,
+    "bc_ternary": "00100001'",
+    "bc_pow2sum": "2^5 + -2^0",
+    "powers": [
+      "5",
+      "-0"
+    ]
+  },
+  "32": {
+    "bc_decimal": 32,
+    "bc_ternary": "011'00000",
+    "bc_pow2sum": "2^6 + -2^5",
+    "powers": [
+      "6",
+      "-5"
+    ]
+  },
+  "33": {
+    "bc_decimal": 33,
+    "bc_ternary": "00100001",
+    "bc_pow2sum": "2^5 + 2^0",
+    "powers": [
+      "5",
+      "0"
+    ]
+  },
+  "34": {
+    "bc_decimal": 34,
+    "bc_ternary": "00100010",
+    "bc_pow2sum": "2^5 + 2^1",
+    "powers": [
+      "5",
+      "1"
+    ]
+  },
+  "35": {
+    "bc_decimal": 34,
+    "bc_ternary": "00100010",
+    "bc_pow2sum": "2^5 + 2^1",
+    "powers": [
+      "5",
+      "1"
+    ]
+  },
+  "36": {
+    "bc_decimal": 36,
+    "bc_ternary": "00100100",
+    "bc_pow2sum": "2^5 + 2^2",
+    "powers": [
+      "5",
+      "2"
+    ]
+  },
+  "37": {
+    "bc_decimal": 36,
+    "bc_ternary": "00100100",
+    "bc_pow2sum": "2^5 + 2^2",
+    "powers": [
+      "5",
+      "2"
+    ]
+  },
+  "38": {
+    "bc_decimal": 36,
+    "bc_ternary": "00100100",
+    "bc_pow2sum": "2^5 + 2^2",
+    "powers": [
+      "5",
+      "2"
+    ]
+  },
+  "39": {
+    "bc_decimal": 40,
+    "bc_ternary": "00101000",
+    "bc_pow2sum": "2^5 + 2^3",
+    "powers": [
+      "5",
+      "3"
+    ]
+  },
+  "40": {
+    "bc_decimal": 40,
+    "bc_ternary": "00101000",
+    "bc_pow2sum": "2^5 + 2^3",
+    "powers": [
+      "5",
+      "3"
+    ]
+  },
+  "41": {
+    "bc_decimal": 40,
+    "bc_ternary": "00101000",
+    "bc_pow2sum": "2^5 + 2^3",
+    "powers": [
+      "5",
+      "3"
+    ]
+  },
+  "42": {
+    "bc_decimal": 40,
+    "bc_ternary": "00101000",
+    "bc_pow2sum": "2^5 + 2^3",
+    "powers": [
+      "5",
+      "3"
+    ]
+  },
+  "43": {
+    "bc_decimal": 40,
+    "bc_ternary": "00101000",
+    "bc_pow2sum": "2^5 + 2^3",
+    "powers": [
+      "5",
+      "3"
+    ]
+  },
+  "44": {
+    "bc_decimal": 40,
+    "bc_ternary": "00101000",
+    "bc_pow2sum": "2^5 + 2^3",
+    "powers": [
+      "5",
+      "3"
+    ]
+  },
+  "45": {
+    "bc_decimal": 48,
+    "bc_ternary": "00110000",
+    "bc_pow2sum": "2^5 + 2^4",
+    "powers": [
+      "5",
+      "4"
+    ]
+  },
+  "46": {
+    "bc_decimal": 48,
+    "bc_ternary": "00110000",
+    "bc_pow2sum": "2^5 + 2^4",
+    "powers": [
+      "5",
+      "4"
+    ]
+  },
+  "47": {
+    "bc_decimal": 48,
+    "bc_ternary": "00110000",
+    "bc_pow2sum": "2^5 + 2^4",
+    "powers": [
+      "5",
+      "4"
+    ]
+  },
+  "48": {
+    "bc_decimal": 48,
+    "bc_ternary": "00110000",
+    "bc_pow2sum": "2^5 + 2^4",
+    "powers": [
+      "5",
+      "4"
+    ]
+  },
+  "49": {
+    "bc_decimal": 48,
+    "bc_ternary": "00110000",
+    "bc_pow2sum": "2^5 + 2^4",
+    "powers": [
+      "5",
+      "4"
+    ]
+  },
+  "50": {
+    "bc_decimal": 48,
+    "bc_ternary": "00110000",
+    "bc_pow2sum": "2^5 + 2^4",
+    "powers": [
+      "5",
+      "4"
+    ]
+  },
+  "51": {
+    "bc_decimal": 48,
+    "bc_ternary": "00110000",
+    "bc_pow2sum": "2^5 + 2^4",
+    "powers": [
+      "5",
+      "4"
+    ]
+  },
+  "52": {
+    "bc_decimal": 48,
+    "bc_ternary": "00110000",
+    "bc_pow2sum": "2^5 + 2^4",
+    "powers": [
+      "5",
+      "4"
+    ]
+  },
+  "53": {
+    "bc_decimal": 56,
+    "bc_ternary": "01001'000",
+    "bc_pow2sum": "2^6 + -2^3",
+    "powers": [
+      "6",
+      "-3"
+    ]
+  },
+  "54": {
+    "bc_decimal": 56,
+    "bc_ternary": "01001'000",
+    "bc_pow2sum": "2^6 + -2^3",
+    "powers": [
+      "6",
+      "-3"
+    ]
+  },
+  "55": {
+    "bc_decimal": 56,
+    "bc_ternary": "01001'000",
+    "bc_pow2sum": "2^6 + -2^3",
+    "powers": [
+      "6",
+      "-3"
+    ]
+  },
+  "56": {
+    "bc_decimal": 56,
+    "bc_ternary": "01001'000",
+    "bc_pow2sum": "2^6 + -2^3",
+    "powers": [
+      "6",
+      "-3"
+    ]
+  },
+  "57": {
+    "bc_decimal": 56,
+    "bc_ternary": "01001'000",
+    "bc_pow2sum": "2^6 + -2^3",
+    "powers": [
+      "6",
+      "-3"
+    ]
+  },
+  "58": {
+    "bc_decimal": 56,
+    "bc_ternary": "01001'000",
+    "bc_pow2sum": "2^6 + -2^3",
+    "powers": [
+      "6",
+      "-3"
+    ]
+  },
+  "59": {
+    "bc_decimal": 60,
+    "bc_ternary": "010001'00",
+    "bc_pow2sum": "2^6 + -2^2",
+    "powers": [
+      "6",
+      "-2"
+    ]
+  },
+  "60": {
+    "bc_decimal": 60,
+    "bc_ternary": "010001'00",
+    "bc_pow2sum": "2^6 + -2^2",
+    "powers": [
+      "6",
+      "-2"
+    ]
+  },
+  "61": {
+    "bc_decimal": 60,
+    "bc_ternary": "010001'00",
+    "bc_pow2sum": "2^6 + -2^2",
+    "powers": [
+      "6",
+      "-2"
+    ]
+  },
+  "62": {
+    "bc_decimal": 62,
+    "bc_ternary": "0100001'0",
+    "bc_pow2sum": "2^6 + -2^1",
+    "powers": [
+      "6",
+      "-1"
+    ]
+  },
+  "63": {
+    "bc_decimal": 63,
+    "bc_ternary": "01000001'",
+    "bc_pow2sum": "2^6 + -2^0",
+    "powers": [
+      "6",
+      "-0"
+    ]
+  },
+  "64": {
+    "bc_decimal": 64,
+    "bc_ternary": "11'000000",
+    "bc_pow2sum": "2^7 + -2^6",
+    "powers": [
+      "7",
+      "-6"
+    ]
+  },
+  "65": {
+    "bc_decimal": 65,
+    "bc_ternary": "01000001",
+    "bc_pow2sum": "2^6 + 2^0",
+    "powers": [
+      "6",
+      "0"
+    ]
+  },
+  "66": {
+    "bc_decimal": 66,
+    "bc_ternary": "01000010",
+    "bc_pow2sum": "2^6 + 2^1",
+    "powers": [
+      "6",
+      "1"
+    ]
+  },
+  "67": {
+    "bc_decimal": 66,
+    "bc_ternary": "01000010",
+    "bc_pow2sum": "2^6 + 2^1",
+    "powers": [
+      "6",
+      "1"
+    ]
+  },
+  "68": {
+    "bc_decimal": 68,
+    "bc_ternary": "01000100",
+    "bc_pow2sum": "2^6 + 2^2",
+    "powers": [
+      "6",
+      "2"
+    ]
+  },
+  "69": {
+    "bc_decimal": 68,
+    "bc_ternary": "01000100",
+    "bc_pow2sum": "2^6 + 2^2",
+    "powers": [
+      "6",
+      "2"
+    ]
+  },
+  "70": {
+    "bc_decimal": 68,
+    "bc_ternary": "01000100",
+    "bc_pow2sum": "2^6 + 2^2",
+    "powers": [
+      "6",
+      "2"
+    ]
+  },
+  "71": {
+    "bc_decimal": 72,
+    "bc_ternary": "01001000",
+    "bc_pow2sum": "2^6 + 2^3",
+    "powers": [
+      "6",
+      "3"
+    ]
+  },
+  "72": {
+    "bc_decimal": 72,
+    "bc_ternary": "01001000",
+    "bc_pow2sum": "2^6 + 2^3",
+    "powers": [
+      "6",
+      "3"
+    ]
+  },
+  "73": {
+    "bc_decimal": 72,
+    "bc_ternary": "01001000",
+    "bc_pow2sum": "2^6 + 2^3",
+    "powers": [
+      "6",
+      "3"
+    ]
+  },
+  "74": {
+    "bc_decimal": 72,
+    "bc_ternary": "01001000",
+    "bc_pow2sum": "2^6 + 2^3",
+    "powers": [
+      "6",
+      "3"
+    ]
+  },
+  "75": {
+    "bc_decimal": 72,
+    "bc_ternary": "01001000",
+    "bc_pow2sum": "2^6 + 2^3",
+    "powers": [
+      "6",
+      "3"
+    ]
+  },
+  "76": {
+    "bc_decimal": 72,
+    "bc_ternary": "01001000",
+    "bc_pow2sum": "2^6 + 2^3",
+    "powers": [
+      "6",
+      "3"
+    ]
+  },
+  "77": {
+    "bc_decimal": 80,
+    "bc_ternary": "01010000",
+    "bc_pow2sum": "2^6 + 2^4",
+    "powers": [
+      "6",
+      "4"
+    ]
+  },
+  "78": {
+    "bc_decimal": 80,
+    "bc_ternary": "01010000",
+    "bc_pow2sum": "2^6 + 2^4",
+    "powers": [
+      "6",
+      "4"
+    ]
+  },
+  "79": {
+    "bc_decimal": 80,
+    "bc_ternary": "01010000",
+    "bc_pow2sum": "2^6 + 2^4",
+    "powers": [
+      "6",
+      "4"
+    ]
+  },
+  "80": {
+    "bc_decimal": 80,
+    "bc_ternary": "01010000",
+    "bc_pow2sum": "2^6 + 2^4",
+    "powers": [
+      "6",
+      "4"
+    ]
+  },
+  "81": {
+    "bc_decimal": 80,
+    "bc_ternary": "01010000",
+    "bc_pow2sum": "2^6 + 2^4",
+    "powers": [
+      "6",
+      "4"
+    ]
+  },
+  "82": {
+    "bc_decimal": 80,
+    "bc_ternary": "01010000",
+    "bc_pow2sum": "2^6 + 2^4",
+    "powers": [
+      "6",
+      "4"
+    ]
+  },
+  "83": {
+    "bc_decimal": 80,
+    "bc_ternary": "01010000",
+    "bc_pow2sum": "2^6 + 2^4",
+    "powers": [
+      "6",
+      "4"
+    ]
+  },
+  "84": {
+    "bc_decimal": 80,
+    "bc_ternary": "01010000",
+    "bc_pow2sum": "2^6 + 2^4",
+    "powers": [
+      "6",
+      "4"
+    ]
+  },
+  "85": {
+    "bc_decimal": 80,
+    "bc_ternary": "01010000",
+    "bc_pow2sum": "2^6 + 2^4",
+    "powers": [
+      "6",
+      "4"
+    ]
+  },
+  "86": {
+    "bc_decimal": 80,
+    "bc_ternary": "01010000",
+    "bc_pow2sum": "2^6 + 2^4",
+    "powers": [
+      "6",
+      "4"
+    ]
+  },
+  "87": {
+    "bc_decimal": 80,
+    "bc_ternary": "01010000",
+    "bc_pow2sum": "2^6 + 2^4",
+    "powers": [
+      "6",
+      "4"
+    ]
+  },
+  "88": {
+    "bc_decimal": 80,
+    "bc_ternary": "01010000",
+    "bc_pow2sum": "2^6 + 2^4",
+    "powers": [
+      "6",
+      "4"
+    ]
+  },
+  "89": {
+    "bc_decimal": 96,
+    "bc_ternary": "01100000",
+    "bc_pow2sum": "2^6 + 2^5",
+    "powers": [
+      "6",
+      "5"
+    ]
+  },
+  "90": {
+    "bc_decimal": 96,
+    "bc_ternary": "01100000",
+    "bc_pow2sum": "2^6 + 2^5",
+    "powers": [
+      "6",
+      "5"
+    ]
+  },
+  "91": {
+    "bc_decimal": 96,
+    "bc_ternary": "01100000",
+    "bc_pow2sum": "2^6 + 2^5",
+    "powers": [
+      "6",
+      "5"
+    ]
+  },
+  "92": {
+    "bc_decimal": 96,
+    "bc_ternary": "01100000",
+    "bc_pow2sum": "2^6 + 2^5",
+    "powers": [
+      "6",
+      "5"
+    ]
+  },
+  "93": {
+    "bc_decimal": 96,
+    "bc_ternary": "01100000",
+    "bc_pow2sum": "2^6 + 2^5",
+    "powers": [
+      "6",
+      "5"
+    ]
+  },
+  "94": {
+    "bc_decimal": 96,
+    "bc_ternary": "01100000",
+    "bc_pow2sum": "2^6 + 2^5",
+    "powers": [
+      "6",
+      "5"
+    ]
+  },
+  "95": {
+    "bc_decimal": 96,
+    "bc_ternary": "01100000",
+    "bc_pow2sum": "2^6 + 2^5",
+    "powers": [
+      "6",
+      "5"
+    ]
+  },
+  "96": {
+    "bc_decimal": 96,
+    "bc_ternary": "01100000",
+    "bc_pow2sum": "2^6 + 2^5",
+    "powers": [
+      "6",
+      "5"
+    ]
+  },
+  "97": {
+    "bc_decimal": 96,
+    "bc_ternary": "01100000",
+    "bc_pow2sum": "2^6 + 2^5",
+    "powers": [
+      "6",
+      "5"
+    ]
+  },
+  "98": {
+    "bc_decimal": 96,
+    "bc_ternary": "01100000",
+    "bc_pow2sum": "2^6 + 2^5",
+    "powers": [
+      "6",
+      "5"
+    ]
+  },
+  "99": {
+    "bc_decimal": 96,
+    "bc_ternary": "01100000",
+    "bc_pow2sum": "2^6 + 2^5",
+    "powers": [
+      "6",
+      "5"
+    ]
+  },
+  "100": {
+    "bc_decimal": 96,
+    "bc_ternary": "01100000",
+    "bc_pow2sum": "2^6 + 2^5",
+    "powers": [
+      "6",
+      "5"
+    ]
+  },
+  "101": {
+    "bc_decimal": 96,
+    "bc_ternary": "01100000",
+    "bc_pow2sum": "2^6 + 2^5",
+    "powers": [
+      "6",
+      "5"
+    ]
+  },
+  "102": {
+    "bc_decimal": 96,
+    "bc_ternary": "01100000",
+    "bc_pow2sum": "2^6 + 2^5",
+    "powers": [
+      "6",
+      "5"
+    ]
+  },
+  "103": {
+    "bc_decimal": 96,
+    "bc_ternary": "01100000",
+    "bc_pow2sum": "2^6 + 2^5",
+    "powers": [
+      "6",
+      "5"
+    ]
+  },
+  "104": {
+    "bc_decimal": 96,
+    "bc_ternary": "01100000",
+    "bc_pow2sum": "2^6 + 2^5",
+    "powers": [
+      "6",
+      "5"
+    ]
+  },
+  "105": {
+    "bc_decimal": 112,
+    "bc_ternary": "1001'0000",
+    "bc_pow2sum": "2^7 + -2^4",
+    "powers": [
+      "7",
+      "-4"
+    ]
+  },
+  "106": {
+    "bc_decimal": 112,
+    "bc_ternary": "1001'0000",
+    "bc_pow2sum": "2^7 + -2^4",
+    "powers": [
+      "7",
+      "-4"
+    ]
+  },
+  "107": {
+    "bc_decimal": 112,
+    "bc_ternary": "1001'0000",
+    "bc_pow2sum": "2^7 + -2^4",
+    "powers": [
+      "7",
+      "-4"
+    ]
+  },
+  "108": {
+    "bc_decimal": 112,
+    "bc_ternary": "1001'0000",
+    "bc_pow2sum": "2^7 + -2^4",
+    "powers": [
+      "7",
+      "-4"
+    ]
+  },
+  "109": {
+    "bc_decimal": 112,
+    "bc_ternary": "1001'0000",
+    "bc_pow2sum": "2^7 + -2^4",
+    "powers": [
+      "7",
+      "-4"
+    ]
+  },
+  "110": {
+    "bc_decimal": 112,
+    "bc_ternary": "1001'0000",
+    "bc_pow2sum": "2^7 + -2^4",
+    "powers": [
+      "7",
+      "-4"
+    ]
+  },
+  "111": {
+    "bc_decimal": 112,
+    "bc_ternary": "1001'0000",
+    "bc_pow2sum": "2^7 + -2^4",
+    "powers": [
+      "7",
+      "-4"
+    ]
+  },
+  "112": {
+    "bc_decimal": 112,
+    "bc_ternary": "1001'0000",
+    "bc_pow2sum": "2^7 + -2^4",
+    "powers": [
+      "7",
+      "-4"
+    ]
+  },
+  "113": {
+    "bc_decimal": 112,
+    "bc_ternary": "1001'0000",
+    "bc_pow2sum": "2^7 + -2^4",
+    "powers": [
+      "7",
+      "-4"
+    ]
+  },
+  "114": {
+    "bc_decimal": 112,
+    "bc_ternary": "1001'0000",
+    "bc_pow2sum": "2^7 + -2^4",
+    "powers": [
+      "7",
+      "-4"
+    ]
+  },
+  "115": {
+    "bc_decimal": 112,
+    "bc_ternary": "1001'0000",
+    "bc_pow2sum": "2^7 + -2^4",
+    "powers": [
+      "7",
+      "-4"
+    ]
+  },
+  "116": {
+    "bc_decimal": 112,
+    "bc_ternary": "1001'0000",
+    "bc_pow2sum": "2^7 + -2^4",
+    "powers": [
+      "7",
+      "-4"
+    ]
+  },
+  "117": {
+    "bc_decimal": 120,
+    "bc_ternary": "10001'000",
+    "bc_pow2sum": "2^7 + -2^3",
+    "powers": [
+      "7",
+      "-3"
+    ]
+  },
+  "118": {
+    "bc_decimal": 120,
+    "bc_ternary": "10001'000",
+    "bc_pow2sum": "2^7 + -2^3",
+    "powers": [
+      "7",
+      "-3"
+    ]
+  },
+  "119": {
+    "bc_decimal": 120,
+    "bc_ternary": "10001'000",
+    "bc_pow2sum": "2^7 + -2^3",
+    "powers": [
+      "7",
+      "-3"
+    ]
+  },
+  "120": {
+    "bc_decimal": 120,
+    "bc_ternary": "10001'000",
+    "bc_pow2sum": "2^7 + -2^3",
+    "powers": [
+      "7",
+      "-3"
+    ]
+  },
+  "121": {
+    "bc_decimal": 120,
+    "bc_ternary": "10001'000",
+    "bc_pow2sum": "2^7 + -2^3",
+    "powers": [
+      "7",
+      "-3"
+    ]
+  },
+  "122": {
+    "bc_decimal": 120,
+    "bc_ternary": "10001'000",
+    "bc_pow2sum": "2^7 + -2^3",
+    "powers": [
+      "7",
+      "-3"
+    ]
+  },
+  "123": {
+    "bc_decimal": 124,
+    "bc_ternary": "100001'00",
+    "bc_pow2sum": "2^7 + -2^2",
+    "powers": [
+      "7",
+      "-2"
+    ]
+  },
+  "124": {
+    "bc_decimal": 124,
+    "bc_ternary": "100001'00",
+    "bc_pow2sum": "2^7 + -2^2",
+    "powers": [
+      "7",
+      "-2"
+    ]
+  },
+  "125": {
+    "bc_decimal": 124,
+    "bc_ternary": "100001'00",
+    "bc_pow2sum": "2^7 + -2^2",
+    "powers": [
+      "7",
+      "-2"
+    ]
+  },
+  "126": {
+    "bc_decimal": 126,
+    "bc_ternary": "1000001'0",
+    "bc_pow2sum": "2^7 + -2^1",
+    "powers": [
+      "7",
+      "-1"
+    ]
+  },
+  "127": {
+    "bc_decimal": 127,
+    "bc_ternary": "10000001'",
+    "bc_pow2sum": "2^7 + -2^0",
+    "powers": [
+      "7",
+      "-0"
+    ]
+  }
+}
